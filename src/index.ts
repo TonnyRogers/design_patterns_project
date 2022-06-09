@@ -1,3 +1,3 @@
-import "./creational/singleton";
+import './creational/singleton';
 
-console.log("Hello World");
+console.log('Hello World');

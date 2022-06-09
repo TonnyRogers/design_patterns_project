@@ -1,7 +1,9 @@
 {
   "name": "design_patterns_project",
   "version": "1.0.0",
-  "scripts": {},
+  "scripts": {
+    "dev": "yarn ts-node"
+  },
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
